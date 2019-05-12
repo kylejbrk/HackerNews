@@ -1,6 +1,6 @@
 # Exploring Hacker News Posts
 
-This project will explore a Hacker News dataset with dates ranging from September 2016 to September 2015. This dataset comes from https://www.kaggle.com/hacker-news/hacker-news-posts. The dataset was originally 300,000 rows, but some posts were removed leaving 20,000 rows.
+This project will explore a Hacker News dataset with dates ranging from September 2015 to September 2016. This dataset comes from https://www.kaggle.com/hacker-news/hacker-news-posts. The dataset was originally 300,000 rows, but some posts were removed leaving 20,000 rows.
 
 The columns in the dataset are the following:
 
